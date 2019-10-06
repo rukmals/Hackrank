@@ -9,10 +9,10 @@ function isPositive(s){
     }
     
 }
-console.log(isPositive(1));
+/*console.log(isPositive(1));
 console.log(isPositive(0));
 console.log(isPositive(-1));
-console.log(isPositive(10));
+console.log(isPositive(10));*/
 
 /*'use strict';
 
@@ -34,9 +34,7 @@ process.stdin.on('end', _ => {
     main();    
 });
 
-function readLine() {
-    return inputString[currentLine++];
-}
+
 
 /*
  * Complete the isPositive function.
