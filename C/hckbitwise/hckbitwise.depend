@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570853435 source:c:\users\user\desktop\rukmal\hackrank\c\hckbitwise\main.c
+	<stdio.h>
+	<stdlib.h>
+
