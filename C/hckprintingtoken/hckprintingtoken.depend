@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571038258 source:c:\users\user\desktop\rukmal\hackrank\c\hckprintingtoken\main.c
+	<stdio.h>
+	<stdlib.h>
+
